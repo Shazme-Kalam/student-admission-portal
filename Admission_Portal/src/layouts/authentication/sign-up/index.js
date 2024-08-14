@@ -45,7 +45,7 @@ function Cover() {
     event.preventDefault();
 
     try {
-      const response = await axios.post("https://student-admission-backend.vercel.app/api/signup", {
+      const response = await axios.post("https://backend-admission-portal.vercel.app/api/signup", {
         name,
         email,
         password,

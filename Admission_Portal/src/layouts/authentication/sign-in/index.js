@@ -65,7 +65,7 @@ function Basic() {
     event.preventDefault();
 
     try {
-      const response = await axios.post("https://student-admission-backend.vercel.app/api/login", {
+      const response = await axios.post("https://backend-admission-portal.vercel.app/api/login", {
         email,
         password,
       });

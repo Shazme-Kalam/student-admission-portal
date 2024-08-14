@@ -176,7 +176,7 @@ function StudentProfile() {
                     <MDTypography
                       variant="body1" // Increase text size
                       sx={{
-                        color: "#0000FF",
+                        color: "#0a0a0a",
                         fontFamily: "Arial, sans-serif",
                         fontSize: "18px",
                       }} // Blue color, font style, and larger font size
@@ -186,7 +186,7 @@ function StudentProfile() {
                     <MDTypography
                       variant="body1" // Increase text size
                       sx={{
-                        color: "#0000FF",
+                        color: "#0a0a0a",
                         fontFamily: "Arial, sans-serif",
                         fontSize: "18px",
                       }} // Blue color, font style, and larger font size
@@ -196,7 +196,7 @@ function StudentProfile() {
                     <MDTypography
                       variant="body1" // Increase text size
                       sx={{
-                        color: "#0000FF",
+                        color: "#0a0a0a",
                         fontFamily: "Arial, sans-serif",
                         fontSize: "18px",
                       }} // Blue color, font style, and larger font size
@@ -206,7 +206,7 @@ function StudentProfile() {
                     <MDTypography
                       variant="body1" // Increase text size
                       sx={{
-                        color: "#0000FF",
+                        color: "#0a0a0a",
                         fontFamily: "Arial, sans-serif",
                         fontSize: "18px",
                       }} // Blue color, font style, and larger font size
@@ -216,7 +216,7 @@ function StudentProfile() {
                     <MDTypography
                       variant="body1" // Increase text size
                       sx={{
-                        color: "#0000FF",
+                        color: "#0a0a0a",
                         fontFamily: "Arial, sans-serif",
                         fontSize: "18px",
                       }} // Blue color, font style, and larger font size
@@ -226,7 +226,7 @@ function StudentProfile() {
                     <MDTypography
                       variant="body1" // Increase text size
                       sx={{
-                        color: "#0000FF",
+                        color: "#0a0a0a",
                         fontFamily: "Arial, sans-serif",
                         fontSize: "18px",
                       }} // Blue color, font style, and larger font size
