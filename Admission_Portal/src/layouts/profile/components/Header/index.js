@@ -191,7 +191,7 @@ function StudentProfile() {
                         fontSize: "18px",
                       }} // Blue color, font style, and larger font size
                     >
-                      Course: Web Development
+                      Course: Web and Mobile Application Development
                     </MDTypography>
                     <MDTypography
                       variant="body1" // Increase text size
@@ -211,7 +211,7 @@ function StudentProfile() {
                         fontSize: "18px",
                       }} // Blue color, font style, and larger font size
                     >
-                      Batch: 10-0030
+                      Batch: 0030-10
                     </MDTypography>
                     <MDTypography
                       variant="body1" // Increase text size
@@ -221,7 +221,7 @@ function StudentProfile() {
                         fontSize: "18px",
                       }} // Blue color, font style, and larger font size
                     >
-                      Email: abc@example.com
+                      Email: innovativesouls5@example.com
                     </MDTypography>
                     <MDTypography
                       variant="body1" // Increase text size
@@ -249,7 +249,7 @@ function StudentProfile() {
                   </MDTypography>
                   <MDBox mt={1.5}>
                     <MDTypography variant="body2" color="text">
-                      Address: 123 Main St, New York, NY
+                      Address: Gulshan Chowrangi, near Mumtaz Mobile mall
                     </MDTypography>
                     <MDTypography variant="body2" color="text">
                       Phone: (123) 456-7890

@@ -7,7 +7,7 @@ import quizIcon from "assets/images/quiiz.jpeg";
 import projectIcon from "assets/images/projects.jpeg";
 import resultIcon from "assets/images/result.jpeg";
 import feedbackIcon from "assets/images/feedbacks.jpeg";
-import Image from "../../assets/images/teapic.jpeg";
+import Image from "../../assets/images/forms.jpg";
 import Image2 from "../../assets/images/propic.png";
 import Image3 from "../../assets/images/timepic.jpeg";
 import Color from "color";
@@ -33,8 +33,8 @@ function Dashboard() {
     },
     {
       image: Image, // Your image import
-      title: "Teachers",
-      description: "Smit Teachers.",
+      title: "Registration Form",
+      description: "Apply & Enroll yourself now.",
     },
     {
       image: Image3, // Your image import
